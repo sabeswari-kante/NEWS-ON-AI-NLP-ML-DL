@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sabeswari-kante
 - 👀 I’m interested in NATURAL LANGUAGE PROCESSING PROGRAMMER AND  NLP RESEARCHER
 - 🌱 I’m currently learning NATURAL LANGUAGE PREOCESSING
-- 💞️ I’m looking to collaborate on projects deals with NLTK, SPACY, REGEX, BERT and many more related to NLP FIELD
+- 💞️ I’m looking to collaborate on projects deals with NLTK, SPACY, REGEX, TRANSFORMERS, ML ALGORITHMS, TENSORFLOW, PYTORCH, MYSQL, RASA, FLASK, BERT and many more related to NLP FIELD
 - 📫 How to reach me, through githubprofile 
 
 <!---
